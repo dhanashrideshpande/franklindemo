@@ -18,7 +18,7 @@
   --overlay-background-color: #eee;
   --highlight-background-color: #ccc;
   --text-color: #000;
-  --highlight-frdemobgcolor-color : linear-gradient(75deg, #DB3278, #EE732F);
+  --highlight-frdemobgcolor-color : #e681aa;
 
   /* fonts */
   --body-font-family: 'helvetica neue', helvetica, ubuntu, roboto, noto, sans-serif;
