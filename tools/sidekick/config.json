@@ -1,11 +1,11 @@
 {
-  "project": "WKND",
+  "project": "franklindemo",
   "plugins": [
     {
       "id": "library",
       "title": "Library",
       "environments": [ "edit" ],
-      "url": "https://main--wknd--hlxsites.hlx.live/tools/sidekick/library.html",
+      "url": "https://main--franklindemo--dhanashrideshpande.hlx.live/tools/sidekick/library.html"
       "includePaths": [ "**.docx**" ]
     },
     {
