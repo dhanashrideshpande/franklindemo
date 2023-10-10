@@ -4,7 +4,7 @@
     {
       "id": "asset-library",
       "title": "My Assets",
-      "environments": [ "edit" ],
+      "environments": [ "edit","view" ],
       "url": "http://localhost:4502/aem/assetpicker.html/content/dam/we-retail/en/activities?assettype=images",
       "isPalette": true,
       "includePaths": [ "**.docx**" ],
